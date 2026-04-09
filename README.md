@@ -1,5 +1,6 @@
 # FlashlightSimulator
-Unity Horror game with AI pathfinding and  dynamic difficulty scaling.
+
+A Unity-based horror game featuring AI pathfinding and dynamic difficulty scaling.
 
 ## Features
 - AI enemy with pathfinding behavior
